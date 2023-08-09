@@ -1,8 +1,9 @@
 # Full Stack Development with Java Spring Boot, React, and MongoDB course project (freeCodeCamp)
+## Frontend
 
-This project was created in order to learn about full-stack development, utilizing skills and software such as Java Spring Boot, React, and MongoDB. The react project creates a frontend for the user to access the data the API returns from the backend on the Spring Boot project. The data is retrieved from a database in MongoDB, allowing the API to connect to the specific connection URL through the environment variables (file that is not uploaded to this repository for safety reasons).
+This project was created to learn about full-stack development, utilizing skills and software such as Java Spring Boot, React, and MongoDB. The React project provides the frontend, allowing the user to access the data the API returns from the backend on the Spring Boot project. The data is retrieved from a database in MongoDB, allowing the API to connect to the specific connection URL through the environment variables (file that is not uploaded to this repository for safety reasons).
 
-Run the following command in the directory in order to start the project:
+Run the following command in the directory to start the project:
 
 ### `npm start`
 
